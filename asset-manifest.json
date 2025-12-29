@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/codeVent/static/css/main.b6906165.css",
-    "main.js": "/codeVent/static/js/main.a38ea159.js",
+    "main.js": "/codeVent/static/js/main.e52b04cc.js",
     "static/js/453.84faa554.chunk.js": "/codeVent/static/js/453.84faa554.chunk.js",
     "index.html": "/codeVent/index.html",
     "main.b6906165.css.map": "/codeVent/static/css/main.b6906165.css.map",
-    "main.a38ea159.js.map": "/codeVent/static/js/main.a38ea159.js.map",
+    "main.e52b04cc.js.map": "/codeVent/static/js/main.e52b04cc.js.map",
     "453.84faa554.chunk.js.map": "/codeVent/static/js/453.84faa554.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6906165.css",
-    "static/js/main.a38ea159.js"
+    "static/js/main.e52b04cc.js"
   ]
 }
