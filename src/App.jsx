@@ -14,7 +14,7 @@ import MyWorkSpend from "./components/MyWorkSpend";
 import Client from "./components/Client";
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/codeVent">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
