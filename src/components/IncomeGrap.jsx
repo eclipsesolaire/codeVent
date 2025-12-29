@@ -25,7 +25,7 @@ export default function IncomeGrap() {
   const [fadeIn, setFadeIn] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
 
-  const API_URL = "http://localhost:3000/grossincome";
+  const API_URL = "https://ton-nom-de-projet.onrender.com/grossincome"
 
   useEffect(() => {
     setFadeIn(true);

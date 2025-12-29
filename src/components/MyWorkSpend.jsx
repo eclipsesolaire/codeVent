@@ -6,7 +6,7 @@ export default function MyTaxes() {
   const [tache, setTache] = useState({});
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
-  const API_URL = "http://localhost:3000/pricework";
+  const API_URL = "https://ton-nom-de-projet.onrender.com/pricework";
 
   // 🔄 Charger les données à l'affichage
   useEffect(() => {

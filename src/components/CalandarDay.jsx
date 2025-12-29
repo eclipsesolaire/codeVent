@@ -13,7 +13,7 @@ export default function CalandarDay() {
   const [loading, setLoading] = useState(false);
   const [formData, setFormData] = useState({ title: "", start: "", end: "" });
 
-  const API_URL = "http://localhost:3000/calandarday";
+  const API_URL = "https://ton-nom-de-projet.onrender.com/calandarday";
 
   const daysToShow = 7;
   const week = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
